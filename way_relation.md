@@ -1,4 +1,8 @@
-### Przykład pierwszy E 75 w Polsce ###
+[MapRoulete Mosty w LDZ](https://maproulette.org/browse/challenges/16108)
+
+[Budynki](https://budynki.openstreetmap.org.pl/#map=13/52.51863/19.76231)
+
+### Przykład way/rel E 75 w Polsce ###
 Wyszukiwanie przy pomocy overpass. Minimalna ilość danych (geom)
 ```
 [out:json][timeout:25];
@@ -13,7 +17,7 @@ out skel qt;
 
 [Link do kwarendy](https://overpass-turbo.eu/s/13tF)
 
-### Przykład drugi wszytkie dane dostępne dla E75###
+### Przykład way/rel wszytkie dane dostępne dla E75###
 
 ```
 [out:json][timeout:250];
